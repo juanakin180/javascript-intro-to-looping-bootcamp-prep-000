@@ -17,7 +17,7 @@ function forLoop(array) {
   return array;
 }
 
-/* function whileLoop(i) {
+ function whileLoop(i) {
   
   let countDown = 10;
   
@@ -27,4 +27,4 @@ function forLoop(array) {
      console.log('done');
   }
   
-} */
+} 
