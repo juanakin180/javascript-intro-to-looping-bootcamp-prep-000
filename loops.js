@@ -30,27 +30,3 @@ function forLoop(array) {
   return 'done';
 }
 
-
-var i = 0;
-
-function incrementVariable(){
-  
-  i = i + 1;
-
-}
-
-
-function doWhileLoop(array, element) {
-  
-  do {
-    
-    console.log(array.pop(element));
-
-
-incrementVariable();
-
-} while (i < 5);
-
-return array;
-
-}
