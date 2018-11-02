@@ -30,4 +30,8 @@ function forLoop(array) {
   return 'done';
 } 
 
-s
+function doWhileLoop(array) {
+  
+  
+  
+}
