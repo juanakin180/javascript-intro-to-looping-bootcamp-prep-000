@@ -30,14 +30,15 @@ function forLoop(array) {
   return 'done';
 } 
 
-var i = 0
+var i = 0;
 
 function incrementVariable(){
   
   i = i + 1;
+
 }
 
-function doWhileLoop(array) {
+function doWhileLoop(array, element) {
   
   do {
     
