@@ -32,6 +32,9 @@ function forLoop(array) {
 
 function doWhileLoop(array) {
   
-  
+  do {
+    
+    console.log(array.pop(element))
+  }
   
 }
