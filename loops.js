@@ -24,7 +24,7 @@ function forLoop(array) {
   
   while ( number >  0) {
     
-     console.log(--countDown);
+     console.log(--number);
   }
   
   return 'done';
