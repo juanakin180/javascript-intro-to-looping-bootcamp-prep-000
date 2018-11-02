@@ -28,7 +28,8 @@ function forLoop(array) {
   }
   
   return 'done';
-} 
+}
+
 
 var i = 0;
 
@@ -37,7 +38,7 @@ function incrementVariable(){
   i = i + 1;
 
 }
-}
+
 
 function doWhileLoop(array, element) {
   
@@ -45,11 +46,10 @@ function doWhileLoop(array, element) {
     
     console.log(array.pop(element));
 
-}
 
 incrementVariable();
 
-} while ()
+} while (i < 5);
 
 return array;
 
