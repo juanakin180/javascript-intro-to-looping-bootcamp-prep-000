@@ -17,14 +17,14 @@ function forLoop(array) {
   return array;
 }
 
- function whileLoop(Number) {
+ function whileLoop(n) {
   
-  let number = 10;
+  let number = n;
   
   
-  while ( number >  0) {
+  while ( n >  0) {
     
-     console.log(number--);
+     console.log(n--);
   }
   
   return 'done';
