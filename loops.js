@@ -30,6 +30,11 @@ function forLoop(array) {
   return 'done';
 } 
 
+function incrementVariable(){
+  
+  i = i + 1;
+}
+
 function doWhileLoop(array) {
   
   do {
@@ -38,9 +43,9 @@ function doWhileLoop(array) {
 
 }
 
-while incrementVariable() = false); {
+incrementVariable();
 
-}
+} while ()
 
 return array;
 
